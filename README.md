@@ -1,4 +1,4 @@
-# 📊 Data Warehouse and Analytics Project
+# 📊 Data Warehouse 
 
 A modern **Data Warehouse and Analytics** solution built using **SQL Server** that consolidates data from multiple source systems into a centralized warehouse for reporting and business intelligence.
 
