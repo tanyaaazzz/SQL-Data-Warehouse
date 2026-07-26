@@ -42,6 +42,7 @@ The warehouse integrates data from two independent source systems:
 | CRM | CSV | Customer Relationship Management data |
 
 ---
+docs/data_architecture.png
 
 ## 🥉 Bronze Layer
 
