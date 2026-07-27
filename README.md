@@ -21,16 +21,6 @@ The solution includes:
 
 ---
 
-## 🎯 Project Objectives
-
-- Consolidate data from multiple business systems
-- Improve data quality through cleansing and validation
-- Create a centralized repository for analytics
-- Build a scalable SQL Server data warehouse
-- Design optimized fact and dimension tables
-- Enable fast and reliable business reporting
-
----
 
 ## 📂 Data Sources
 
@@ -42,7 +32,7 @@ The warehouse integrates data from two independent source systems:
 | CRM | CSV | Customer Relationship Management data |
 
 ---
-docs/data_architecture.png
+
 
 ## 🥉 Bronze Layer
 
@@ -102,7 +92,7 @@ The Gold layer follows a **Star Schema** consisting of:
 - Product Dimension
 - Date Dimension
 - Geography Dimension
-- Sales Representative Dimension *(if applicable)*
+- Sales Representative Dimension 
 
 ---
 
@@ -170,29 +160,3 @@ The warehouse enables analysis such as:
 
 ---
 
-## ✨ Key Features
-
-- Multi-source data integration
-- Medallion Architecture (Bronze, Silver, Gold)
-- End-to-end ETL pipeline
-- Data quality management
-- Star schema data modeling
-- Analytics-ready datasets
-- SQL Server implementation
-- Business reporting support
-
----
-
-## 📚 Learning Outcomes
-
-This project demonstrates practical knowledge of:
-
-- Data Warehousing
-- SQL Server
-- ETL Development
-- Data Cleaning and Transformation
-- Data Modeling
-- Star Schema Design
-- Medallion Architecture
-- Analytical SQL
-- Business Intelligence Fundamentals# SQL-Data-Warehouse
